@@ -13,18 +13,12 @@ productos organizados por categorías.
 
 ## Capturas del sistema
 
-![INICIO]
-(screenshots/inicio.png)
-![NOSOTROS]
-(screenshots/nosotros.png)
-![PRODUCTOS]
-(screenshots/productos.png)
-![DETALLE]
-(screenshots/detalle.png)
-![SERVICIO]
-(screenshots/servicios.png)
-![CONTACTANOS]
-(screenshots/contacnos.png)
+![INICIO](screenshots/inicio.png)
+![NOSOTROS](screenshots/nosotros.png)
+![PRODUCTOS](screenshots/productos.png)
+![DETALLE](screenshots/detalle.png)
+![SERVICIO](screenshots/servicios.png)
+![CONTACTANOS](screenshots/contacnos.png)
 
 ## Tecnologías utilizadas
 
